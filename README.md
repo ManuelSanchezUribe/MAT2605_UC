@@ -4,11 +4,9 @@
 
 ### Jupyter notebooks
 - [Capítulo 1: Conceptos básicos](https://github.com/ManuelSanchezUribe/MAT2605_UC/blob/main/Jupyter_notebooks_clases/Capitulo1_Conceptosb%C3%A1sicos.ipynb)
-- Capítulo 2:
+- [Capítulo 2: Eliminacion Gaussiana](https://github.com/ManuelSanchezUribe/MAT2605_UC/blob/main/Jupyter_notebooks_clases/Capitulo2_EliminacionGaussiana.ipynb)
 - Capítulo 3:
 - Capítulo 4:
 - Capítulo 5:
 - Capítulo 6:
 - Capítulo 7:
-
-
